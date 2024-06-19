@@ -1,0 +1,13 @@
+Rage Bridge Program Extraction Project
+
+Team Lead 	: Cormac McCreary
+
+Programs used 	: Arduino IDE , AVRDUDESS V2.14
+
+Project Completed	: 6 / 10 / 23
+
+Project Goal	: Extraction of flash memory and EEPROM data from Rage Bridge V2.1 for purposes of reverse engineering.
+
+Resource(s)	: https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP.
+
+Notes		: With the contents of memory extracted, it is now possible to clone the rage bridge V2.1 as all other parts are not specialized.

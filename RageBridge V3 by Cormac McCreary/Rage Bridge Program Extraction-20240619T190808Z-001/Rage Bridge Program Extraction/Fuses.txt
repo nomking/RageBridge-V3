@@ -1,0 +1,9 @@
+Rage Bridge V2.1 Program Extraction
+
+Fuses & Lock Bits
+
+L 	: 0xFF
+H	: 0xDA
+E	: 0xFD
+LB	: 0xFF
+
